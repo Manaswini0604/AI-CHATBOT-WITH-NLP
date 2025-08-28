@@ -70,7 +70,7 @@ faq_data = {
     "what is python": "Python is a popular programming language for AI, data science, and more.",
     "tell me a joke": "Why did the programmer quit his job? Because he didn't get arrays.",
     "what is machine learning": "Machine learning teaches systems to learn patterns from data.",
-    "bye":"Goodbye! 👋"
+    "bye":"Goodbye! 👋",
 }
 
 # ---- Chatbot Class ----
